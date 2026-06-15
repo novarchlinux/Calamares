@@ -25,8 +25,8 @@ The packages hosted here are used for:
 
 ```text
 x86_64/
-├── novarch-calamares.db.tar.gz
-├── novarch-calamares.files.tar.gz
+├── calamares.db.tar.gz
+├── calamares.files.tar.gz
 ├── calamares-*.pkg.tar.zst
 └── calamares-debug-*.pkg.tar.zst
 ```
